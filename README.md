@@ -4,7 +4,7 @@ Hello, this is an android app(game) of TicTacToe which you can play with two pla
 <ul>
 <li>Android SDK v29</li>
 <li>Minimun SDK v15</li>
-<li>Latest Android Build Tools</li>
+<li>Android Studio</li>
 <li>Android Support Repository</li>
 </ul>
 
