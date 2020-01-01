@@ -25,7 +25,7 @@ Go to file-> import Project then select the project you want to import and click
 
 # ScreenShots
 <img src="https://user-images.githubusercontent.com/59075705/71637079-c7df3c80-2c60-11ea-9c6a-4271832f7fb3.png" width="100px" height="200px"></img>
-<img src="https://user-images.githubusercontent.com/59075705/71637079-c7df3c80-2c60-11ea-9c6a-4271832f7fb3.png" width="100px" height="200px"></img>
+<img src="https://user-images.githubusercontent.com/59075705/71637080-c877d300-2c60-11ea-8f5f-47c534caaee6.png" width="100px" height="200px"></img>
 <img src="https://user-images.githubusercontent.com/59075705/71637079-c7df3c80-2c60-11ea-9c6a-4271832f7fb3.png" width="100px" height="200px"></img>
 
 # Query
