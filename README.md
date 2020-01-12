@@ -9,7 +9,7 @@ Hello, this is an android app(game) of TicTacToe which you can play with two pla
 </ul>
 
 # GetStarted 
-To clone the project follow below steps:
+To clone the project follow the steps given below:
 <ol>
 <li>Load Android Studio and select check out project from version Control.</li>
 <li>Select GitHub from the drop-down list</li>
